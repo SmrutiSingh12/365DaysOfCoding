@@ -2,4 +2,7 @@
 
 Day 1:Bubble Sort
 
-DAy 2:Factorlal
+https://www.programiz.com/dsa/bubble-sort
+
+Day 2:Factorial
+

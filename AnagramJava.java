@@ -40,3 +40,18 @@ class AnagramJava{
 
 	}
 }
+/*
+Output:
+Enter the str1:
+pwer
+Enter the str2:
+jhd
+String are not anagram
+
+
+Enter the str1:
+Apple
+Enter the str2:
+Eppla
+Strings are anagram
+*/

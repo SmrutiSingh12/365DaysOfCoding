@@ -1,9 +1,13 @@
 def gcd(a,b): 
       
-    # Everything divides 0  
-    if (b == 0): 
-         return a 
-    return gcd(a, a%b) 
+   
+    if(b == 0):
+    	return a 
+    if(a==0):
+    	return b
+    if(a>b):
+    	return gcd(b, a%b) 
+    return gcd(b%a,a)
   
 
 n=int(input("Enter the no of testcase:"))

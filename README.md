@@ -9,4 +9,7 @@ Day 2:Factorial
 Day 3:Selection Sort
 https://www.programiz.com/dsa/selection-sort
 
+Day 15:Stack using Linked List
+https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/
+
 

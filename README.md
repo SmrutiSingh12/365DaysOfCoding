@@ -16,8 +16,10 @@ https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/
 
 Day 20:MicroAndArray
 https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/micro-and-array-update/description/
+
 DAy 21:DiagonalDifference
 https://www.hackerrank.com/challenges/diagonal-difference/problem
+
 DAy22:VCPairs
 https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/vc-pairs/description/
 

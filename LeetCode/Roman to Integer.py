@@ -8,14 +8,14 @@ class Solution:
             if s[a]=="I":
                 c=c+1
               
-            if(s[a+1:]==["V"]):
-                b=4
+                if(s[a+1:]==["V"]):
+                    b=4
                 
-                return b
-            if(s[a+1:]==["X"]):
-                b=9
+                    return b
+                if(s[a+1:]==["X"]):
+                    b=9
                 
-                return b
+                    return b
             if(s[a]=="V"):
                 d=5
                 c=0
@@ -41,12 +41,15 @@ class Solution:
                     if o[j]=="X":
                         
                         p=10
-                        p=p+10
+                        print(o[j:])
+                        if o[j:]==["X"]:
+                            p=p+10
+                        
                     if o[j]=="L":
                         l=30
                     if o[j]=="C":
                         k=80
-                
+                print(d,c,e,p,l,k)
                 return d+c+e+p+l+k
             
                 
@@ -99,7 +102,4 @@ class Solution:
             if(s[a]=="m"):
                 d=100
                 return d
-        return c   
-                
-            
-        
+        return c 
